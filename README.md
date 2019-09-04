@@ -41,7 +41,7 @@ This project is to create a model that will take words in a subreddit post and p
 --- 
 ### Data Description:
 
-- Post csv files
+- Post_csv_files
     - Holds all the csv files of the posts pulled from the subreddits
     - Includes titles to the posts, the posts themselves, and the name of the relative subreddit
 
@@ -49,10 +49,10 @@ This project is to create a model that will take words in a subreddit post and p
     - Executive Summary 
     - Code
     
-- Posts Requests Travel vs. Shoestring.ipynb
+- Posts_Requests_Travel_vs_Shoestring.ipynb
     - Code for pulling the posts from the subreddits
     
-- Subreddit presentation.pdf
+- Subreddit_presentation.pdf
     - Presentation
     
 - README.md
